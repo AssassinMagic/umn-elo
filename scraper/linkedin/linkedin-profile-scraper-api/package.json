@@ -16,6 +16,7 @@
   "dependencies": {
     "all-the-cities": "^3.1.0",
     "i18n-iso-countries": "^5.4.0",
+    "linkedin-profile-scraper": "file:",
     "moment": "^2.27.0",
     "moment-timezone": "^0.5.31",
     "puppeteer": "^4.0.1",
